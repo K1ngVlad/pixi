@@ -1,0 +1,36 @@
+{"frames": {
+
+"trail_end.png":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"trail_turn.png":
+{
+	"frame": {"x":32,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"trail.png":
+{
+	"frame": {"x":64,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "trailset.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ba030f53cafa43ce250778280b99029b:374049808e99dc83b6bcb33cdaab9173:3dc568b80cff0a34791e648830c05c7b$"
+}
+}
